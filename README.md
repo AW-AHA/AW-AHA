@@ -1,5 +1,5 @@
 <h1 align="center">Buen día!! Soy Alejandro Hernández Andrade</h1>
-<h3 align="center">Actualmente trabajo como profesor de la Universidad Tecnológica de León</h3>
+<h3 align="center">Profesor de la Universidad Tecnológica de León</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
